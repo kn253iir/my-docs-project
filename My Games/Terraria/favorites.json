@@ -1,0 +1,10 @@
+{
+  "World": {
+    "Неподвижный_Самородок.wld": false,
+    "Живой_пассаж_бузины.wld": false,
+    "jj.wld": false
+  },
+  "Player": {
+    "pupu.plr": true
+  }
+}
